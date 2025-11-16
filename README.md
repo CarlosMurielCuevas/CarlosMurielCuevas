@@ -24,21 +24,12 @@ Soy un desarrollador web **junior** con alrededor de **6 meses de experiencia**.
 
 ---
 
-## 📚 Actualmente aprendiendo
-- Desarrollo **fullstack**
-- Buenas prácticas, testing y arquitectura limpia
-- Crear proyectos sólidos para compartir en GitHub
-
----
-
 ## 📂 Próximos proyectos
 *(Pronto subiré mis primeros proyectos. ¡En construcción! 🚧)*
 
 ---
 
 ## 📊 Estadísticas de GitHub
-
-> ⚠️ Estas estadísticas empiezan a mostrarse cuando tengas repos públicos, pero puedes dejarlas preparadas desde ahora.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosMurielCuevas&show_icons=true&theme=default)
 
