@@ -17,6 +17,8 @@ Soy un desarrollador web **junior** con alrededor de **6 meses de experiencia**.
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### 📌 Metodologías
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
