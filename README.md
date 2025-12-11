@@ -33,9 +33,9 @@ Soy un desarrollador web **junior** con alrededor de **6 meses de experiencia**.
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosMurielCuevas&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=CarlosMurielCuevas&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMurielCuevas&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=CarlosMurielCuevas&layout=compact)
 
 ---
 
