@@ -1,43 +1,58 @@
-# 👋 ¡Hola! Soy Carlos Muriel
+# Hola, soy Carlos Muriel 👋
 
-Soy un desarrollador web **junior** con alrededor de **6 meses de experiencia**. Me encanta aprender, mejorar mis habilidades y trabajar en proyectos que me reten como programador.
+Desarrollador web **fullstack junior** con experiencia real en proyectos del sector defensa trabajando con **Angular** y **Python** en equipos multidisciplinares bajo metodología **Scrum**. Apasionado por el desarrollo de software y el aprendizaje continuo.
 
----
-
-## 🚀 Tecnologías y herramientas
-
-### 🧠 Lenguajes
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-
-### 🏗️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-000000?logo=alembic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### 📌 Metodologías
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-FF6F00?logo=google&logoColor=white)
+🟢 **Disponible para nuevas oportunidades**
 
 ---
 
-## 📂 Próximos proyectos
-*(Pronto subiré mis primeros proyectos. ¡En construcción! 🚧)*
+## 🛠️ Tecnologías
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 💼 Experiencia
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=CarlosMurielCuevas&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=CarlosMurielCuevas&layout=compact)
-
+**Desarrollador Web Fullstack** · Bertrandt Technology Spain *(Mar 2025 - Sep 2025)*
+Proyectos Simlab (Indra) e Intermod (Airbus) · Angular + Python · Scrum
 
 ---
 
-✨ *Gracias por visitar mi perfil. ¡Estoy empezando, pero con muchas ganas de crecer como desarrollador!* 🚀
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Portfolio Personal](https://github.com/CarlosMurielCuevas/portfolio) | Portfolio web con Angular standalone, lazy loading y SCSS modular | Angular · TypeScript · SCSS |
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosMurielCuevas&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMurielCuevas&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Contacto
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmurielcuevas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/CarlosMurielCuevas/portfolio)
